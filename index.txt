@@ -3,3 +3,4 @@ Plik indeks.
 Spis Treści:
 1. Plik1.txt
 2. Plik2.txt
+3. Plik3.txt
